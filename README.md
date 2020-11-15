@@ -2,8 +2,13 @@
 
 untuk belajar web
 
-unntuk upload dan commit
+untuk upload dan commit
 
-- git add .
-- git commit -m "isipesan"
-- git push
+- `git add .`
+- `git commit -m "isipesan"`
+- `git push`
+
+
+untuk update 
+- `git pull`
+- atau `git pull origin main`
