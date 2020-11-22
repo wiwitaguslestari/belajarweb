@@ -26,6 +26,12 @@ Name servers
 ns01.000webhost.com
 ns02.000webhost.com
 
+## db
+phpmyadmin: databases.000webhost.com
+dbname: id15471960_belajar 
+user: id15471960_ngodekeras
+
+pass: Belajarweb77!
 
 
 
