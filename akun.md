@@ -1,3 +1,36 @@
+# 000 webhost
+email: ngodekeras@outlook.com
+pass: Belajarweb77
+
+
+Akses website Anda
+Domain Saya 
+ngodekeras.000webhostapp.com
+Statistik   Bandwidth: 0MB dari 3000MB
+Disk: 0.01MB dari 300MB
+Inodes: 5 dari 10000
+Pengiriman email: 0 dari 50
+
+Informasi File yang Diunggah (FTP)
+Untuk mengelola file website, bacatutorial"Cara upload file ke 000webhost?".
+Host    files.000webhost.com
+Username    ngodekeras
+Password    Ubah password
+Home directory  /storage/ssd5/960/15471960
+Folder untuk file unggahan  public_html
+Ftp clients Web file manager
+SmartFTP
+FileZilla
+
+Name servers
+ns01.000webhost.com
+ns02.000webhost.com
+
+
+
+
+
+
 
 # cpanel
 
